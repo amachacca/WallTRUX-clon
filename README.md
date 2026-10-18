@@ -107,3 +107,4 @@ tests/
 Agregar almacenamiento robusto con undo transaccional, dibujo de círculos/arcos y muros compuestos, escala de unidades real, restricciones de recubrimiento normativas, optimización del cálculo en Web Workers, fórmula compatible con la **edición exacta de ACI 318**, leyes de materiales intercambiables, refinamiento adaptativo de la superficie, curvas cerradas de tensión pura y verificación de cargas mediante algoritmo de intersección/raycast en la superficie 3D, además de una batería exhaustiva de pruebas de regresión.
 
 Código MIT. Dependencias de terceros sujetas a sus propias licencias.
+# WallTRUX-clon
